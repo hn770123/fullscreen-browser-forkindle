@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">全画面ブラウザ</string>
+    <string name="url_hint">URLを入力してください</string>
+    <string name="go">移動</string>
+    <string name="toggle_url_bar">URL欄切替</string>
+    <string name="back">戻る</string>
+    <string name="forward">進む</string>
+    <string name="reload">更新</string>
+    <string name="default_url">https://www.google.com</string>
+</resources>

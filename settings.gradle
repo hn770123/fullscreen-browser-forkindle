@@ -1,0 +1,2 @@
+rootProject.name = "FullscreenBrowser"
+include ':app'
